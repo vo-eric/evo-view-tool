@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-PortfolioViewTool::Renderer.copyright "Eric Vo", "All rights reserved"
+EvoViewTool::Renderer.copyright "Eric Vo", "All rights reserved"
 ```
 
 ## Development
