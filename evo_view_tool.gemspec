@@ -6,7 +6,7 @@ require "evo_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "evo_view_tool"
   spec.version       = EvoViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Eric Vo"]
   spec.email         = ["vo.eric@gmail.com"]
 
   spec.summary       = %q{Basic view selection for personal projects}
